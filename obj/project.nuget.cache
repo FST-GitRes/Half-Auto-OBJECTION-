@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rG/WfTPmyacspVAOIsVF3cY3tN6DXre+lpSlLgPUK97dsTmd5YvaeYQDvCZ5TDy/AdR3iSmo5DF2AIlrB+/BYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\86139\\source\\repos\\Objection!\\Objection!.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\86139\\.nuget\\packages\\panuon.wpf\\1.1.0\\panuon.wpf.1.1.0.nupkg.sha512",
+    "C:\\Users\\86139\\.nuget\\packages\\panuon.wpf.ui\\1.2.1\\panuon.wpf.ui.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
