@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Objection_</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="badge.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Panuon.WPF.UI" Version="1.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="badge.ico" />
+    <Resource Include="Objection! 文件\en.png" />
+  </ItemGroup>
+
+</Project>
